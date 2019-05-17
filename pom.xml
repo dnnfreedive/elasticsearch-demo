@@ -11,6 +11,7 @@
     <groupId>com.research</groupId>
     <artifactId>elasticsearch-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>elasticsearch-demo</name>
     <description>Testing elastic search</description>
 
